@@ -24,10 +24,9 @@
     </pre>
     <pre>
       How to use the application-
-      git clone 
+      git clone https://github.com/ArkaGoel/Hacker-Dream.git (To Use it)
+      cd Hacker-Dream
       python main.py (Home)
-      python main.py -h (help)
-      python
     </pre>
   </body>
 </html>
