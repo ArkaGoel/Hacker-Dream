@@ -22,5 +22,12 @@
       $ sudo apt-get install Crypto
       $ sudo apt-get install hashlib
     </pre>
+    <pre>
+      How to use the application-
+      git clone 
+      python main.py (Home)
+      python main.py -h (help)
+      python
+    </pre>
   </body>
 </html>
