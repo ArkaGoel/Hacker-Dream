@@ -18,7 +18,7 @@
     <pre>
       Prequisites for this to work- 
       $ sudo apt-get install python
-      $ pip install pycryptodome
+      $ pip install simple-crypt
       $ pip install Crypto
       $ pip install hashlib
     </pre>
