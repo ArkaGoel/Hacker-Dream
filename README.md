@@ -18,9 +18,9 @@
     <pre>
       Prequisites for this to work- 
       $ sudo apt-get install python
-      $ sudo apt-get install simplecrypt
-      $ sudo apt-get install Crypto
-      $ sudo apt-get install hashlib
+      $ pip install pycryptodome
+      $ pip install Crypto
+      $ pip install hashlib
     </pre>
     <pre>
       How to use the application-
