@@ -4,7 +4,8 @@
     <p>Welcome to the hacker's dream!</p>
     <p>Made By Arka Goel</p>
     <p>Some Helpful Commands- </p>
-    <pre>   [-d] = decrypt
+    <pre>  
+         [-d] = decrypt
          [-e] = encrypt
          [-r] = ransomware documentation 
          [-h] = help
