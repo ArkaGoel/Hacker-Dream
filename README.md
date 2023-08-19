@@ -17,10 +17,10 @@
     </pre>
     <pre>
       Prequisites for this to work- 
+      $ sudo apt-get install python
       $ sudo apt-get install simplecrypt
       $ sudo apt-get install Crypto
       $ sudo apt-get install hashlib
-      $ sudo apt-get install 
     </pre>
   </body>
 </html>
