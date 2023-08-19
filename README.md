@@ -28,5 +28,6 @@
       cd Hacker-Dream
       python main.py (Home)
     </pre>
+  <p>Thanks for using my application</p>
   </body>
 </html>
