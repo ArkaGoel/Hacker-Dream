@@ -13,7 +13,6 @@
          [-s] = sha256
          [-ef] = encrypt files
          [-df] = decrypt files
-         [-de] = dehash functions
     </pre>
     <pre>
       Prequisites for this to work- 
