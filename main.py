@@ -41,7 +41,7 @@ elif(len(op) > 1):
                 sys.exit()
         elif(val == '-h'):
             print("Welcome to Hacking tool\n Made by Arka Goel")
-            print("Usage: [-d] = decrypt, [-e] = encrypt, [-r] = ransomware documentation [-h] = help, [-m] = md5, [-s] = sha256, [-ef] = encrypt files, [-df] = decrypt files, [-de] = dehash functions")
+            print("Usage: [-d] = decrypt, [-e] = encrypt, [-r] = ransomware documentation [-h] = help, [-m] = md5, [-s] = sha256, [-ef] = encrypt files, [-df] = decrypt files")
             print("Don't try to use combinations because some processes may make the program unfuctional")
         elif(val == "-m"):
             raw = input("Provide Text to be hashed: ")
@@ -78,7 +78,7 @@ elif(len(op) > 1):
                 file_decode = file_data_decrypt.decode('utf-8')
                 file_wr = open(file_path, 'w')
                 file_wr.write(file_decode)
-                print("Decryption Done! Check the file.")
+                print("Decryption Done! Check the file.")   
             except Exception:
                 print("Wrong Password, Terminating program!")
                 sys.exit()
@@ -87,3 +87,5 @@ elif(len(op) > 1):
             print("WARNING: Do not use these file in under any circumstances in your desktop or an important folder as it is a test program and may damage your files parmanently. Run this script on a sepereate test folder. It is a humble request\n")
             print("If you can't get your files back then the default passphrase for the decryption of files is Hacked@H1, but you may edit the password with your preferences in the ransomware file\n")
             print("Last but not Least: Use this with care to your computer NEVER run this file on root folder as it will destroy your system")
+
+            
