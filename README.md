@@ -15,7 +15,7 @@
          [-df] = decrypt files
     </pre>
     <pre>
-      Prequisites for this to work- 
+      Prequisites for this to work (Don't use root)- 
       $ sudo apt-get install python
       $ pip install simple-crypt --no-dependencies
       $ pip install Crypto
