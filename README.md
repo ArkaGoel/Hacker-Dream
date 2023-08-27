@@ -7,7 +7,7 @@
       Some Helpful Commands-
          [-d] = decrypt
          [-e] = encrypt
-         [-r] = ransomware documentation 
+         [-r] = ransomware documentation (Read Before Using Ransomware file)
          [-h] = help
          [-m] = md5
          [-s] = sha256
